@@ -1,0 +1,139 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.7f1 (c53830e277f1) revision 12924976'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1165; Version 2009; 64bit' Language: 'en' Physical Memory: 32691 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+H:\Unity 2019\2020.2.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+H:/proiectscoalaunity/unityprojecttest/unitytest/New Unity Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61587
+Successfully changed project path to: H:/proiectscoalaunity/unityprojecttest/unitytest/New Unity Project
+H:/proiectscoalaunity/unityprojecttest/unitytest/New Unity Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 43.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.7f1 (c53830e277f1)
+[Subsystems] Discovering subsystems at path H:/Unity 2019/2020.2.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path H:/proiectscoalaunity/unityprojecttest/unitytest/New Unity Project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 Ti (ID=0x1b82)
+    Vendor:   
+    VRAM:     8079 MB
+    Driver:   27.21.14.5751
+Initialize mono
+Mono path[0] = 'H:/Unity 2019/2020.2.7f1/Editor/Data/Managed'
+Mono path[1] = 'H:/Unity 2019/2020.2.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'H:/Unity 2019/2020.2.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56736
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: H:/Unity 2019/2020.2.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001174 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 38.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.183 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003928 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.160 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1141 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 185.0 MB.
+System memory in use after: 184.9 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1601.
+Total: 2.825400 ms (FindLiveObjects: 0.194200 ms CreateObjectMapping: 0.053400 ms MarkObjects: 2.334700 ms  DeleteObjects: 0.241700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Import/Palisade_Wall_Low_Poly/Palisade_Wall_Low_Poly.prefab
+  artifactKey: Guid(6e777d12c705be1479231e0146f19665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Palisade_Wall_Low_Poly/Palisade_Wall_Low_Poly.prefab using Guid(6e777d12c705be1479231e0146f19665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d3a60e3a5baeaadfb1b389527ac2a27') in 0.069196 seconds
+  Import took 0.071825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.008954 seconds.
+  path: Assets/Import/Palisade_Wall_Low_Poly/materials/FrontColor_0.mat
+  artifactKey: Guid(8c223f830a68e7847b8be1fb902f5cd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Palisade_Wall_Low_Poly/materials/FrontColor_0.mat using Guid(8c223f830a68e7847b8be1fb902f5cd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f08c956dd9ef19966d808023325ac14e') in 0.462700 seconds
+  Import took 0.466620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Assets/Import/Palisade_Wall_Low_Poly/materials/old_wooden_fence_grass_2_1.mat
+  artifactKey: Guid(89eec005cc940c84da767b3030283f17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Palisade_Wall_Low_Poly/materials/old_wooden_fence_grass_2_1.mat using Guid(89eec005cc940c84da767b3030283f17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '934708d5ee09af659cae9dbb4ac9750e') in 0.026973 seconds
+  Import took 0.031048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000622 seconds.
+  path: Assets/Import/Palisade_Wall_Low_Poly/meshes/_0_0.asset
+  artifactKey: Guid(e2c41d9a7f5067940bf13ae8c0cdfb08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Palisade_Wall_Low_Poly/meshes/_0_0.asset using Guid(e2c41d9a7f5067940bf13ae8c0cdfb08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6197c5d8a396fca48e0a236623e5ca1c') in 0.195704 seconds
+  Import took 0.200662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043377 seconds.
+  path: Assets/Import/Palisade_Wall_Low_Poly/textures/old_wooden_fence_grass_2_diffuse_0.png
+  artifactKey: Guid(8c5ec897378910e4cb0680133c3cc361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Palisade_Wall_Low_Poly/textures/old_wooden_fence_grass_2_diffuse_0.png using Guid(8c5ec897378910e4cb0680133c3cc361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d84def29e29628653cf6d98c49982e3') in 0.023327 seconds
+  Import took 0.026360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.507159 seconds.
+  path: Assets/Import/Palisade_Wall_Low_Poly/materials
+  artifactKey: Guid(d050f6695d32af444abfe3a07c4b8d33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Palisade_Wall_Low_Poly/materials using Guid(d050f6695d32af444abfe3a07c4b8d33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24069b802e3e7e1b41b5aaad3ec1669e') in 0.017719 seconds
+  Import took 0.022631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.346472 seconds.
+  path: Assets/Import/Wooden_Wall_-_Low_poly/Wooden_Wall_-_Low_poly.prefab
+  artifactKey: Guid(3c889689a820afb4b991519be4790c5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Wooden_Wall_-_Low_poly/Wooden_Wall_-_Low_poly.prefab using Guid(3c889689a820afb4b991519be4790c5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13efc3be3f0414addaa3fa751e89d263') in 0.019390 seconds
+  Import took 0.022365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 280.616361 seconds.
+  path: Assets/Import/Gun_Tower_4/Gun_Tower_4.prefab
+  artifactKey: Guid(469eb6f46ade2a844a1e21da48073e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Gun_Tower_4/Gun_Tower_4.prefab using Guid(469eb6f46ade2a844a1e21da48073e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bde7fb769a3582e382651670f7d9361') in 0.049007 seconds
+  Import took 0.053764 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
